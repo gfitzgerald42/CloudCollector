@@ -30,7 +30,7 @@ DOWN  = (0, 1)
 LEFT  = (-1, 0)
 RIGHT = (1, 0)
 
-#INSIDE OF THE GAME LOOP
+
 screen.blit(surface, (0,0))
 
 def draw_cloud(surf, color, pos):
