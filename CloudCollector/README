@@ -1,0 +1,4 @@
+README
+
+To run this file simply run python3 cloud.py 
+The build requires the images to be within the same directory as the python program 
